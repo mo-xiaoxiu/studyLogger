@@ -4,7 +4,7 @@
 
 ## 设计
 
-![](https://myblog-1308923350.cos.ap-guangzhou.myqcloud.com/img/Logger.png)
+![](https://myblog-1308923350.cos.ap-guangzhou.myqcloud.com/img/Logger设计.png)
 
 
 ## 日志类和输出逻辑
