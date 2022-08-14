@@ -1,6 +1,6 @@
 #!/bin/bash
 
-mkdir -p build &&
+mkdir -p build test &&
 cd build &&
 cmake .. &&
 make
